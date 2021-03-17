@@ -1,0 +1,1 @@
+class Customer(var id:Int,var name:String)
